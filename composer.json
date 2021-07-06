@@ -1,0 +1,14 @@
+{
+    "name": "guugg/clooblock",
+    "description": "一个基于cloo主题的区块!",
+    "type": "clooblock",
+    "require": {
+        "guugg/wordpress-plugins-clooblock": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:guugg/wordpress-plugins-clooblock"
+        }
+    ]
+}
